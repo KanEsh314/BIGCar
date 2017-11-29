@@ -1,5 +1,6 @@
 package my.com.itrain.bigcar;
 
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -38,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
         adapter.addFragment(new ExploreContentFragment(), "Explore");
         adapter.addFragment(new SavedContentFragment(), "Saved");
         adapter.addFragment(new TripsContentFragment(), "Trips");
+        adapter.addFragment(new InboxContentFragment(), "Inbox");
+        adapter.addFragment(new ProfileContentFragment(), "Profile");
         viewPager.setAdapter(adapter);
     }
 
