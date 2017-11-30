@@ -8,4 +8,22 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Profile Items -->
+    <string-array name="profileOption">
+        <item>Travel Credit</item>
+        <item>List Your Spaces</item>
+        <item>Setting</item>
+        <item>Help</item>
+        <item>Give Us Feedback</item>
+    </string-array>
+
+    <string-array name="profileIcon">
+        <item>@drawable/ic_explore</item>
+        <item>@drawable/ic_saved</item>
+        <item>@drawable/ic_trips</item>
+        <item>@drawable/ic_inbox</item>
+        <item>@drawable/ic_profile</item>
+    </string-array>
+
 </resources>
