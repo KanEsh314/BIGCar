@@ -19,11 +19,11 @@
     </string-array>
 
     <string-array name="profileIcon">
-        <item>@drawable/ic_explore</item>
-        <item>@drawable/ic_saved</item>
-        <item>@drawable/ic_trips</item>
-        <item>@drawable/ic_inbox</item>
-        <item>@drawable/ic_profile</item>
+        <item>@drawable/johor</item>
+        <item>@drawable/melaka</item>
+        <item>@drawable/penang</item>
+        <item>@drawable/johor</item>
+        <item>@drawable/melaka</item>
     </string-array>
 
 </resources>
